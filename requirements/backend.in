@@ -3,3 +3,4 @@ pydantic
 pydantic_settings
 starlette
 uvicorn[standard]
+numpy
